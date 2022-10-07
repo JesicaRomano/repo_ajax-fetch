@@ -1,0 +1,17 @@
+[
+    {"nombre": "Ramon", "apellido":"Sanchez", "edad": "35", "dni": "33256789", "caja": "100000"},
+    {"nombre": "Ana", "apellido":"Silva", "edad": "38", "dni": "30111999", "caja": "80000"},
+    {"nombre": "Juana", "apellido":"Rincon", "edad": "52", "dni": "23111555", "caja": "120000"},
+    {"nombre": "Marcos", "apellido":"Juarez", "edad": "39", "dni": "29950854", "caja": "180000"},
+    {"nombre": "Mario", "apellido":"Rivera", "edad": "45", "dni": "26888741", "caja": "74000"},
+    {"nombre": "Jesus", "apellido":"Lopez", "edad": "65", "dni": "10852963", "caja": "115000"},
+    {"nombre": "Clara", "apellido":"Mendoza", "edad": "59", "dni": "16951753", "caja": "93000"},
+    {"nombre": "Rosa", "apellido":"Alfaro", "edad": "48", "dni": "25111000", "caja": "150000"},
+    {"nombre": "Martin", "apellido":"Calderon", "edad": "27", "dni": "40159999", "caja": "120000"},
+    {"nombre": "Raul", "apellido":"Ruiz", "edad": "41", "dni": "28852000", "caja": "95000"},
+    {"nombre": "Juan", "apellido":"Perez", "edad": "25", "dni": "42111222", "caja": "185000"},
+    {"nombre": "Pedro", "apellido":"Gomez", "edad": "62", "dni": "14789456", "caja": "50000"},
+    {"nombre": "Maria", "apellido":"Marquez", "edad": "36", "dni": "33111147", "caja": "75000"},
+    {"nombre": "Carlos", "apellido":"Gonzalez", "edad": "51", "dni": "23123423", "caja": "200000"},
+    {"nombre": "Luis", "apellido":"Olivera", "edad": "63", "dni": "13256789", "caja": "300000"}
+]

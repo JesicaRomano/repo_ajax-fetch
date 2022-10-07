@@ -1,0 +1,10 @@
+[{"operacion": "Plazo Fijo", "currency": "usd", "monto": "2000", "plazo": "90", "interes": "3", "ganancia": "2003"},
+{"operacion": "Plazo Fijo", "currency": "pesos", "monto": "100000", "plazo": "180", "interes": "36986", "ganancia": "136986"},
+{"operacion": "Bonos", "currency": "usd", "monto": "100", "plazo": "60", "retorno": "2", "ganancia": "102"},
+{"operacion": "Bonos", "currency": "pesos", "monto": "30000", "plazo": "30", "retorno": "300", "ganancia": "30300"},
+{"operacion": "Acciones", "currency": "usd", "monto": "150", "plazo": "30", "ganancia": "152"},
+{"operacion": "Acciones", "currency": "pesos", "monto": "20000", "plazo": "10", "ganancia": "21200"},
+{"operacion": "Plazo Fijo", "currency": "usd", "monto": "5000", "plazo": "180", "interes": "19", "ganancia": "5019"},
+{"operacion": "Plazo Fijo", "currency": "pesos", "monto": "150000", "plazo": "240", "interes": "73972", "ganancia": "223972"},
+{"operacion": "Plazo Fijo", "currency": "pesos", "monto": "50000", "plazo": "360", "interes": "36986", "ganancia": "86986"}
+]
